@@ -1,2 +1,2 @@
 # Radar-Signals
-Detecting vehicles or obstacles in radar signals recorded by road vehicles using Convolutional Neural Networks.
+## Read article at [https://edwardliv.github.io/](https://edwardliv.github.io/2022/01/02/radar.html)
